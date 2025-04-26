@@ -1,0 +1,145 @@
+{
+  "unit": 6,
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "clothes",
+      "type": "n",
+      "meaning": "衣服；服装",
+      "audio": "https://dict.youdao.com/dictvoice?audio=clothes&type=1"
+    },
+    {
+      "id": 2,
+      "word": "shirt",
+      "type": "n",
+      "meaning": "（尤指男式的）衬衫",
+      "audio": "https://dict.youdao.com/dictvoice?audio=shirt&type=1"
+    },
+    {
+      "id": 3,
+      "word": "trousers",
+      "type": "n",
+      "meaning": "裤子",
+      "audio": "https://dict.youdao.com/dictvoice?audio=trousers&type=1"
+    },
+    {
+      "id": 4,
+      "word": "sock",
+      "type": "n",
+      "meaning": "短袜",
+      "audio": "https://dict.youdao.com/dictvoice?audio=sock&type=1"
+    },
+    {
+      "id": 5,
+      "word": "shoe",
+      "type": "n",
+      "meaning": "鞋",
+      "audio": "https://dict.youdao.com/dictvoice?audio=shoe&type=1"
+    },
+    {
+      "id": 6,
+      "word": "hat",
+      "type": "n",
+      "meaning": "（带指带檐的）帽子",
+      "audio": "https://dict.youdao.com/dictvoice?audio=hat&type=1"
+    },
+    {
+      "id": 7,
+      "word": "dress",
+      "type": "n",
+      "meaning": "连衣裙",
+      "audio": "https://dict.youdao.com/dictvoice?audio=dress&type=1"
+    },
+    {
+      "id": 8,
+      "word": "skirt",
+      "type": "n",
+      "meaning": "女裙；裙子",
+      "audio": "https://dict.youdao.com/dictvoice?audio=skirt&type=1"
+    },
+    {
+      "id": 9,
+      "word": "ready",
+      "type": "adj",
+      "meaning": "准备好的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=ready&type=1"
+    },
+    {
+      "id": 10,
+      "word": "toe",
+      "type": "n",
+      "meaning": "脚趾",
+      "audio": "https://dict.youdao.com/dictvoice?audio=toe&type=1"
+    },
+    {
+      "id": 11,
+      "word": "blouse",
+      "type": "n",
+      "meaning": "女式衬衫",
+      "audio": "https://dict.youdao.com/dictvoice?audio=blouse&type=1"
+    },
+    {
+      "id": 12,
+      "word": "put on",
+      "type": "phrase",
+      "meaning": "穿上",
+      "audio": "https://dict.youdao.com/dictvoice?audio=put%20on&type=1"
+    },
+    {
+      "id": 13,
+      "word": "make new clothes",
+      "type": "phrase",
+      "meaning": "做新衣",
+      "audio": "https://dict.youdao.com/dictvoice?audio=make%20new%20clothes&type=1"
+    },
+    {
+      "id": 14,
+      "word": "choose clothes",
+      "type": "phrase",
+      "meaning": "选择衣服",
+      "audio": "https://dict.youdao.com/dictvoice?audio=choose%20clothes&type=1"
+    },
+    {
+      "id": 15,
+      "word": "Grandma's old skirt",
+      "type": "phrase",
+      "meaning": "奶奶的旧短裙",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Grandma%27s%20old%20skirt&type=1"
+    },
+    {
+      "id": 16,
+      "word": "from head to toe",
+      "type": "phrase",
+      "meaning": "从头到脚",
+      "audio": "https://dict.youdao.com/dictvoice?audio=from%20head%20to%20toe&type=1"
+    },
+    {
+      "id": 17,
+      "word": "time to go",
+      "type": "phrase",
+      "meaning": "出发的时间到了",
+      "audio": "https://dict.youdao.com/dictvoice?audio=time%20to%20go&type=1"
+    },
+    {
+      "id": 18,
+      "word": "Put on my trousers.",
+      "type": "sentence",
+      "meaning": "穿上我的裤子。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Put%20on%20my%20trousers&type=1"
+    },
+    {
+      "id": 19,
+      "word": "It's my new hat now.",
+      "type": "sentence",
+      "meaning": "现在它是我的新帽子了。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=It%27s%20my%20new%20hat%20now&type=1"
+    },
+    {
+      "id": 20,
+      "word": "I have a new bag.",
+      "type": "sentence",
+      "meaning": "我有一个新的包。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%20have%20a%20new%20bag&type=1"
+    }
+  ]
+}

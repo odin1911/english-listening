@@ -1,0 +1,159 @@
+{
+  "unit": 1,
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "happy",
+      "type": "adj",
+      "meaning": "高兴的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=happy&type=1"
+    },
+    {
+      "id": 2,
+      "word": "tired",
+      "type": "adj",
+      "meaning": "疲倦的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=tired&type=1"
+    },
+    {
+      "id": 3,
+      "word": "busy",
+      "type": "adj",
+      "meaning": "忙碌的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=busy&type=1"
+    },
+    {
+      "id": 4,
+      "word": "fine",
+      "type": "adj",
+      "meaning": "健康的；身体很好的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=fine&type=1"
+    },
+    {
+      "id": 5,
+      "word": "great",
+      "type": "adj",
+      "meaning": "身心健康的；心情愉快的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=great&type=1"
+    },
+    {
+      "id": 6,
+      "word": "how",
+      "type": "adv",
+      "meaning": "怎样；如何",
+      "audio": "https://dict.youdao.com/dictvoice?audio=how&type=1"
+    },
+    {
+      "id": 7,
+      "word": "good",
+      "type": "adj",
+      "meaning": "好的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=good&type=1"
+    },
+    {
+      "id": 8,
+      "word": "your",
+      "type": "pron",
+      "meaning": "你的；你们的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=your&type=1"
+    },
+    {
+      "id": 9,
+      "word": "my",
+      "type": "pron",
+      "meaning": "我的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=my&type=1"
+    },
+    {
+      "id": 10,
+      "word": "classmate",
+      "type": "n",
+      "meaning": "同学",
+      "audio": "https://dict.youdao.com/dictvoice?audio=classmate&type=1"
+    },
+    {
+      "id": 11,
+      "word": "new",
+      "type": "adj",
+      "meaning": "新的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=new&type=1"
+    },
+    {
+      "id": 12,
+      "word": "friend",
+      "type": "n",
+      "meaning": "朋友",
+      "audio": "https://dict.youdao.com/dictvoice?audio=friend&type=1"
+    },
+    {
+      "id": 13,
+      "word": "greet",
+      "type": "n",
+      "meaning": "问候",
+      "audio": "https://dict.youdao.com/dictvoice?audio=greet&type=1"
+    },
+    {
+      "id": 14,
+      "word": "sit here",
+      "type": "phrase",
+      "meaning": "坐在这里",
+      "audio": "https://dict.youdao.com/dictvoice?audio=sit%20here&type=1"
+    },
+    {
+      "id": 15,
+      "word": "How are you today?",
+      "type": "sentence",
+      "meaning": "你今天好吗？",
+      "audio": "https://dict.youdao.com/dictvoice?audio=How%20are%20you%20today&type=1"
+    },
+    {
+      "id": 16,
+      "word": "I'm good.",
+      "type": "sentence",
+      "meaning": "我很好。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%27m%20good&type=1"
+    },
+    {
+      "id": 17,
+      "word": "I'm fine.",
+      "type": "sentence",
+      "meaning": "我很好。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%27m%20fine&type=1"
+    },
+    {
+      "id": 18,
+      "word": "I'm great.",
+      "type": "sentence",
+      "meaning": "我很好。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%27m%20great&type=1"
+    },
+    {
+      "id": 19,
+      "word": "How about you?",
+      "type": "sentence",
+      "meaning": "你呢？",
+      "audio": "https://dict.youdao.com/dictvoice?audio=How%20about%20you&type=1"
+    },
+    {
+      "id": 20,
+      "word": "This is your new classmate.",
+      "type": "sentence",
+      "meaning": "这是你们的新同学。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=This%20is%20your%20new%20classmate&type=1"
+    },
+    {
+      "id": 21,
+      "word": "Really?",
+      "type": "sentence",
+      "meaning": "真的吗？",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Really&type=1"
+    },
+    {
+      "id": 22,
+      "word": "Thanks.",
+      "type": "sentence",
+      "meaning": "谢谢。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Thanks&type=1"
+    }
+  ]
+}

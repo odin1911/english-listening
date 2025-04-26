@@ -1,0 +1,152 @@
+{
+  "unit": 2,
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "lunch",
+      "type": "n",
+      "meaning": "午餐；午饭",
+      "audio": "https://dict.youdao.com/dictvoice?audio=lunch&type=1"
+    },
+    {
+      "id": 2,
+      "word": "time",
+      "type": "n",
+      "meaning": "时间",
+      "audio": "https://dict.youdao.com/dictvoice?audio=time&type=1"
+    },
+    {
+      "id": 3,
+      "word": "meatball",
+      "type": "n",
+      "meaning": "肉丸",
+      "audio": "https://dict.youdao.com/dictvoice?audio=meatball&type=1"
+    },
+    {
+      "id": 4,
+      "word": "rice",
+      "type": "n",
+      "meaning": "大米；稻米",
+      "audio": "https://dict.youdao.com/dictvoice?audio=rice&type=1"
+    },
+    {
+      "id": 5,
+      "word": "vegetable",
+      "type": "n",
+      "meaning": "蔬菜",
+      "audio": "https://dict.youdao.com/dictvoice?audio=vegetable&type=1"
+    },
+    {
+      "id": 6,
+      "word": "soup",
+      "type": "n",
+      "meaning": "汤",
+      "audio": "https://dict.youdao.com/dictvoice?audio=soup&type=1"
+    },
+    {
+      "id": 7,
+      "word": "apple",
+      "type": "n",
+      "meaning": "苹果",
+      "audio": "https://dict.youdao.com/dictvoice?audio=apple&type=1"
+    },
+    {
+      "id": 8,
+      "word": "pack",
+      "type": "v",
+      "meaning": "打包",
+      "audio": "https://dict.youdao.com/dictvoice?audio=pack&type=1"
+    },
+    {
+      "id": 9,
+      "word": "have",
+      "type": "v",
+      "meaning": "吃",
+      "audio": "https://dict.youdao.com/dictvoice?audio=have&type=1"
+    },
+    {
+      "id": 10,
+      "word": "like",
+      "type": "v",
+      "meaning": "喜欢",
+      "audio": "https://dict.youdao.com/dictvoice?audio=like&type=1"
+    },
+    {
+      "id": 11,
+      "word": "love",
+      "type": "v",
+      "meaning": "喜爱",
+      "audio": "https://dict.youdao.com/dictvoice?audio=love&type=1"
+    },
+    {
+      "id": 12,
+      "word": "them",
+      "type": "pron",
+      "meaning": "他们；她们；它们",
+      "audio": "https://dict.youdao.com/dictvoice?audio=them&type=1"
+    },
+    {
+      "id": 13,
+      "word": "where",
+      "type": "adv",
+      "meaning": "在哪里",
+      "audio": "https://dict.youdao.com/dictvoice?audio=where&type=1"
+    },
+    {
+      "id": 14,
+      "word": "have lunch",
+      "type": "phrase",
+      "meaning": "吃午餐",
+      "audio": "https://dict.youdao.com/dictvoice?audio=have%20lunch&type=1"
+    },
+    {
+      "id": 15,
+      "word": "It's lunch time",
+      "type": "sentence",
+      "meaning": "午餐时间到了。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=It%27s%20lunch%20time&type=1"
+    },
+    {
+      "id": 16,
+      "word": "Let's have lunch together.",
+      "type": "sentence",
+      "meaning": "让我们一起吃午餐吧。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Let%27s%20have%20lunch%20together&type=1"
+    },
+    {
+      "id": 17,
+      "word": "What do you have for lunch?",
+      "type": "sentence",
+      "meaning": "你午餐吃什么？",
+      "audio": "https://dict.youdao.com/dictvoice?audio=What%20do%20you%20have%20for%20lunch&type=1"
+    },
+    {
+      "id": 18,
+      "word": "I have meatballs and vegetables.",
+      "type": "sentence",
+      "meaning": "我吃肉丸和蔬菜。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%20have%20meatballs%20and%20vegetables&type=1"
+    },
+    {
+      "id": 19,
+      "word": "I like meatballs.",
+      "type": "sentence",
+      "meaning": "我喜欢肉丸。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%20like%20meatballs&type=1"
+    },
+    {
+      "id": 20,
+      "word": "I love them all.",
+      "type": "sentence",
+      "meaning": "我全都喜欢。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%20love%20them%20all&type=1"
+    },
+    {
+      "id": 21,
+      "word": "This is a lunch box for Dad.",
+      "type": "sentence",
+      "meaning": "这是一个为爸爸准备的午餐盒。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=This%20is%20a%20lunch%20box%20for%20Dad&type=1"
+    }
+  ]
+}

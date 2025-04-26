@@ -1,0 +1,166 @@
+{
+  "unit": 4,
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "playground",
+      "type": "n",
+      "meaning": "游戏场；操场",
+      "audio": "https://dict.youdao.com/dictvoice?audio=playground&type=1"
+    },
+    {
+      "id": 2,
+      "word": "swing",
+      "type": "n,v",
+      "meaning": "秋千；荡秋千",
+      "audio": "https://dict.youdao.com/dictvoice?audio=swing&type=1"
+    },
+    {
+      "id": 3,
+      "word": "slide",
+      "type": "n",
+      "meaning": "滑梯",
+      "audio": "https://dict.youdao.com/dictvoice?audio=slide&type=1"
+    },
+    {
+      "id": 4,
+      "word": "seesaw",
+      "type": "n",
+      "meaning": "跷跷板",
+      "audio": "https://dict.youdao.com/dictvoice?audio=seesaw&type=1"
+    },
+    {
+      "id": 5,
+      "word": "come",
+      "type": "v",
+      "meaning": "来",
+      "audio": "https://dict.youdao.com/dictvoice?audio=come&type=1"
+    },
+    {
+      "id": 6,
+      "word": "play",
+      "type": "v",
+      "meaning": "玩耍",
+      "audio": "https://dict.youdao.com/dictvoice?audio=play&type=1"
+    },
+    {
+      "id": 7,
+      "word": "put",
+      "type": "v",
+      "meaning": "放；放置",
+      "audio": "https://dict.youdao.com/dictvoice?audio=put&type=1"
+    },
+    {
+      "id": 8,
+      "word": "up",
+      "type": "adv",
+      "meaning": "向上",
+      "audio": "https://dict.youdao.com/dictvoice?audio=up&type=1"
+    },
+    {
+      "id": 9,
+      "word": "down",
+      "type": "adv",
+      "meaning": "向下",
+      "audio": "https://dict.youdao.com/dictvoice?audio=down&type=1"
+    },
+    {
+      "id": 10,
+      "word": "fun",
+      "type": "adj",
+      "meaning": "有趣的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=fun&type=1"
+    },
+    {
+      "id": 11,
+      "word": "careful",
+      "type": "adj",
+      "meaning": "小心的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=careful&type=1"
+    },
+    {
+      "id": 12,
+      "word": "whee",
+      "type": "int",
+      "meaning": "咻；啊（表示高兴）",
+      "audio": "https://dict.youdao.com/dictvoice?audio=whee&type=1"
+    },
+    {
+      "id": 13,
+      "word": "in the playground",
+      "type": "phrase",
+      "meaning": "在游戏场",
+      "audio": "https://dict.youdao.com/dictvoice?audio=in%20the%20playground&type=1"
+    },
+    {
+      "id": 14,
+      "word": "on the slide",
+      "type": "phrase",
+      "meaning": "在滑梯上",
+      "audio": "https://dict.youdao.com/dictvoice?audio=on%20the%20slide&type=1"
+    },
+    {
+      "id": 15,
+      "word": "hold on tight",
+      "type": "phrase",
+      "meaning": "抓紧；抓牢",
+      "audio": "https://dict.youdao.com/dictvoice?audio=hold%20on%20tight&type=1"
+    },
+    {
+      "id": 16,
+      "word": "be careful",
+      "type": "phrase",
+      "meaning": "小心",
+      "audio": "https://dict.youdao.com/dictvoice?audio=be%20careful&type=1"
+    },
+    {
+      "id": 17,
+      "word": "sit up straight",
+      "type": "phrase",
+      "meaning": "坐直",
+      "audio": "https://dict.youdao.com/dictvoice?audio=sit%20up%20straight&type=1"
+    },
+    {
+      "id": 18,
+      "word": "give safety tips",
+      "type": "phrase",
+      "meaning": "给予安全提示",
+      "audio": "https://dict.youdao.com/dictvoice?audio=give%20safety%20tips&type=1"
+    },
+    {
+      "id": 19,
+      "word": "Come and play on the slide.",
+      "type": "sentence",
+      "meaning": "来玩滑梯吧",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Come%20and%20play%20on%20the%20slide&type=1"
+    },
+    {
+      "id": 20,
+      "word": "Let's play together.",
+      "type": "sentence",
+      "meaning": "让我们一起玩吧",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Let%27s%20play%20together&type=1"
+    },
+    {
+      "id": 21,
+      "word": "Be careful and swing.",
+      "type": "sentence",
+      "meaning": "小心一点荡秋千",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Be%20careful%20and%20swing&type=1"
+    },
+    {
+      "id": 22,
+      "word": "Put your hands here!",
+      "type": "sentence",
+      "meaning": "把你的手放在这里！",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Put%20your%20hands%20here&type=1"
+    },
+    {
+      "id": 23,
+      "word": "Sit up straight!",
+      "type": "sentence",
+      "meaning": "坐直！",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Sit%20up%20straight&type=1"
+    }
+  ]
+}

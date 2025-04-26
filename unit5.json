@@ -1,0 +1,166 @@
+{
+  "unit": 5,
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "weather",
+      "type": "n",
+      "meaning": "天气；气象",
+      "audio": "https://dict.youdao.com/dictvoice?audio=weather&type=1"
+    },
+    {
+      "id": 2,
+      "word": "sunny",
+      "type": "adj",
+      "meaning": "阳光充足的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=sunny&type=1"
+    },
+    {
+      "id": 3,
+      "word": "rainy",
+      "type": "adj",
+      "meaning": "阴雨的；多雨的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=rainy&type=1"
+    },
+    {
+      "id": 4,
+      "word": "cloudy",
+      "type": "adj",
+      "meaning": "阴天的；多云的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=cloudy&type=1"
+    },
+    {
+      "id": 5,
+      "word": "windy",
+      "type": "adj",
+      "meaning": "多风的；风大的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=windy&type=1"
+    },
+    {
+      "id": 6,
+      "word": "snowy",
+      "type": "adj",
+      "meaning": "被雪覆盖的；下雪多的",
+      "audio": "https://dict.youdao.com/dictvoice?audio=snowy&type=1"
+    },
+    {
+      "id": 7,
+      "word": "Sydney",
+      "type": "n",
+      "meaning": "悉尼",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Sydney&type=1"
+    },
+    {
+      "id": 8,
+      "word": "Hong Kong",
+      "type": "n",
+      "meaning": "香港",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Hong%20Kong&type=1"
+    },
+    {
+      "id": 9,
+      "word": "London",
+      "type": "n",
+      "meaning": "伦敦",
+      "audio": "https://dict.youdao.com/dictvoice?audio=London&type=1"
+    },
+    {
+      "id": 10,
+      "word": "Beijing",
+      "type": "n",
+      "meaning": "北京",
+      "audio": "https://dict.youdao.com/dictvoice?audio=Beijing&type=1"
+    },
+    {
+      "id": 11,
+      "word": "ask",
+      "type": "v",
+      "meaning": "问",
+      "audio": "https://dict.youdao.com/dictvoice?audio=ask&type=1"
+    },
+    {
+      "id": 12,
+      "word": "know",
+      "type": "v",
+      "meaning": "知道；了解",
+      "audio": "https://dict.youdao.com/dictvoice?audio=know&type=1"
+    },
+    {
+      "id": 13,
+      "word": "outside",
+      "type": "adv",
+      "meaning": "在外面",
+      "audio": "https://dict.youdao.com/dictvoice?audio=outside&type=1"
+    },
+    {
+      "id": 14,
+      "word": "place",
+      "type": "n",
+      "meaning": "地方；地点",
+      "audio": "https://dict.youdao.com/dictvoice?audio=place&type=1"
+    },
+    {
+      "id": 15,
+      "word": "in Sydney",
+      "type": "phrase",
+      "meaning": "在悉尼",
+      "audio": "https://dict.youdao.com/dictvoice?audio=in%20Sydney&type=1"
+    },
+    {
+      "id": 16,
+      "word": "sunny days",
+      "type": "phrase",
+      "meaning": "晴天",
+      "audio": "https://dict.youdao.com/dictvoice?audio=sunny%20days&type=1"
+    },
+    {
+      "id": 17,
+      "word": "play outside",
+      "type": "phrase",
+      "meaning": "在外面玩",
+      "audio": "https://dict.youdao.com/dictvoice?audio=play%20outside&type=1"
+    },
+    {
+      "id": 18,
+      "word": "talk about the weather",
+      "type": "phrase",
+      "meaning": "谈论天气",
+      "audio": "https://dict.youdao.com/dictvoice?audio=talk%20about%20the%20weather&type=1"
+    },
+    {
+      "id": 19,
+      "word": "make a weather card",
+      "type": "phrase",
+      "meaning": "做一张天气卡",
+      "audio": "https://dict.youdao.com/dictvoice?audio=make%20a%20weather%20card&type=1"
+    },
+    {
+      "id": 20,
+      "word": "What's the weather like in Beijing?",
+      "type": "sentence",
+      "meaning": "北京的天气怎么样？",
+      "audio": "https://dict.youdao.com/dictvoice?audio=What%27s%20the%20weather%20like%20in%20Beijing&type=1"
+    },
+    {
+      "id": 21,
+      "word": "It's sunny.",
+      "type": "sentence",
+      "meaning": "天气是晴朗的。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=It%27s%20sunny&type=1"
+    },
+    {
+      "id": 22,
+      "word": "I like sunny days.",
+      "type": "sentence",
+      "meaning": "我喜欢晴天。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=I%20like%20sunny%20days&type=1"
+    },
+    {
+      "id": 23,
+      "word": "In London, it's rainy today.",
+      "type": "sentence",
+      "meaning": "在伦敦，今天是下雨的。",
+      "audio": "https://dict.youdao.com/dictvoice?audio=In%20London%2C%20it%27s%20rainy%20today&type=1"
+    }
+  ]
+}
