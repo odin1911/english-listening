@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语学习</title>
+    <style>
+        .toolbar {
+            padding: 10px;
+            margin-bottom: 20px;
+            background-color: #f5f5f5;
+        }
+        .word-button {
+            margin: 5px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="toolbar">
+        <label>
+            <input type="checkbox" id="repeat3Times"> 读3遍
+        </label>
+        <span style="margin-left: 20px;">
+            播放间隔：
+            <label>
+                <input type="radio" name="interval" value="2000" checked> 2秒
+            </label>
+            <label>
+                <input type="radio" name="interval" value="3000"> 3秒
+            </label>
+            <label>
+                <input type="radio" name="interval" value="4000"> 4秒
+            </label>
+        </span>
+        <button id="stopButton" onclick="stopAudio()">停止</button>
+    </div>
+
+    <div class="unit-selector" style="margin: 20px 0;">
+        <button onclick="loadUnit(1)">Unit 1</button>
+        <button onclick="loadUnit(2)">Unit 2</button>
+        <button onclick="loadUnit(3)">Unit 3</button>
+        <button onclick="loadUnit(4)">Unit 4</button>
+        <button onclick="loadUnit(5)">Unit 5</button>
+        <button onclick="loadUnit(6)">Unit 6</button>
+    </div>
+
+    <div id="wordContainer"></div>
+
+    <script>
+        let currentAudio = null;
+        let currentTimeout = null;
+
+        function stopAudio() {
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+            if (currentTimeout) {
+                clearTimeout(currentTimeout);
+                currentTimeout = null;
+            }
+        }
+
+        function playAudio(url, times = 1) {
+            stopAudio();
+            let count = 0;
+            const audio = new Audio(url);
+            currentAudio = audio;
+            
+            audio.onended = function() {
+                count++;
+                if (count < times) {
+                    const interval = parseInt(document.querySelector('input[name="interval"]:checked').value);
+                    currentTimeout = setTimeout(() => {
+                        if (currentAudio === audio) {
+                            audio.play();
+                        }
+                    }, interval);
+                }
+            };
+            
+            audio.play();
+        }
+
+        function loadUnit(unitNumber) {
+            fetch(`unit${unitNumber}.json`)
+                .then(response => response.json())
+                .then(data => {
+                    const container = document.getElementById('wordContainer');
+                    container.innerHTML = ''; // 清空现有内容
+                    data.vocabulary.forEach(item => {
+                        const button = document.createElement('button');
+                        button.className = 'word-button';
+                        button.textContent = item.word;
+                        button.onclick = () => {
+                            const repeat3Times = document.getElementById('repeat3Times').checked;
+                            playAudio(item.audio, repeat3Times ? 3 : 1);
+                        };
+                        container.appendChild(button);
+                    });
+                })
+                .catch(error => console.error('加载数据失败:', error));
+        }
+
+        // 默认加载 Unit 1
+        loadUnit(1);
+    </script>
+</body>
+</html>
